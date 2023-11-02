@@ -1,16 +1,18 @@
-# Bem-vindo à StoreXpress
+# Bem-vindo à AppStoreXpress
 
 ## Sobre a Organização
 
-A StoreXpress é uma organização no GitHub dedicada à construção de uma plataforma de app store whitelabel. Nossa missão é permitir que empresas ofereçam suas próprias app stores integradas aos seus produtos e serviços, abrindo uma nova fonte de receita passiva, sem a necessidade de desenvolver recursos adicionais.
+A AppStoreXpress é uma organização no dedicada à construção de uma plataforma de app store whitelabel. Nossa missão é permitir que empresas ofereçam sua própria app store integrada aos seus produtos e serviços, abrindo uma nova fonte de receita passiva, sem a necessidade de desenvolver soluções adicionais para seus clientes com recursos próprios, permitindo que empresas parceiras construam essas soluções e as ofertem na store da sua empresa onde você lucra com as vendas dessas soluções desenvolvidas pelos seus parceiros.
 
 ## Público-Alvo
 
-Nossos principais públicos-alvo são:
+Nossos principais públicos são:
 
 1. **Clientes:** Empresas que desejam adotar uma app store própria para seus produtos e serviços, sem o ônus de desenvolver uma plataforma do zero.
 
 2. **Parceiros:** Empresas de tecnologia que desejam desenvolver aplicativos com novos recursos para os produtos e serviços dos clientes e vendê-los na app store do cliente.
+
+3. **Consumidores** Consumidores que utilizam os produtos e ou serviços ofertados pelos clientes e suas app stores, dando a ele uma gama de produtos e serviços para enriquecer sua experiência como usuário. 
 
 ## Projetos Principais
 
